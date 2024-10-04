@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/suryansh-it/suryansh-it/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif)
 
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Suryansh</h2>
 
