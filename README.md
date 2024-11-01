@@ -4,7 +4,7 @@
 
 <!-- ## 👋 &nbsp;Hey there! I'm SURYANSH -->
 
-## <picture><img src = "https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif" width = 50px></picture> <b> About Me </b>
+## <picture ><img src = "https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif" width="50px" style="vertical-align: bottom;" > </picture> <b> About Me </b>
 
 
 
