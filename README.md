@@ -35,6 +35,14 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
+![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=amazon-dynamodb&logoColor=336791)&nbsp;
+![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
+![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
+
 
 
 
