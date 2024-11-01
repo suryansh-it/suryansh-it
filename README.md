@@ -35,7 +35,7 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
-![C++](https://github.com/user-attachments/assets/cad2729d-d569-4b79-b969-2bfba802e8b8)&nbsp;
+![C++](https://img.icons8.com/?size=100&id=40669&format=png&color=000000)&nbsp;
 
 
 
