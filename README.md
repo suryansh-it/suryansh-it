@@ -1,10 +1,12 @@
 <!-- ![Snake animation](https://github.com/suryansh-it/suryansh-it/blob/main/github/workflows/snake.yml)-->
 
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Suryansh</h2>
+<!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
+<h2>Hey there! I'm Suryansh</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm SURYANSH -->
 
-## <picture ><img src = "https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif" width="50px" style="vertical-align: bottom;" > </picture> <b> About Me </b>
+<!--## <picture ><img src = "https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif" width="50px" style="vertical-align: bottom;" > </picture>-->
+<b> About Me </b>
 
 
 
