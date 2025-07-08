@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I’m Suryansh Sharma</h1>
-<h3 align="center">Passionate Backend Developer | B.Tech IT Final Year | SaaS & TravelTech Builder</h3>
+<h3 align="center">Passionate Backend Developer | B.Tech IT Final Year | Building SaaS</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=0F2330&background=F7F7F7&width=600&lines=Backend+%7C+Django+%26+DRF+%7C+PostgreSQL;Next.js+%7C+Tailwind+CSS+%7C+React;Always+Learning+%26+Building+!" alt="Typing SVG" />
