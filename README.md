@@ -42,12 +42,13 @@ Cloud & Tools:  AWS (EC2, S3), Netlify, Vercel, Sentry, Git
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 TripBozo</h3>
+      <h3>🚀 Ttripbozo</h3>
       <ul>
-        <li>Country‑verified travel apps (ride‑hail, maps, eSIMs, insurance)</li>
+        <li>Country‑verified travel apps (ride‑hail, maps, food delivery)</li>
         <li>One‑scan QR bundles for instant installs—no signup required</li>
-        <li>Feedback loop to add new countries in minutes</li>
+        <li>Essentials like eSIMs, insurance, emergency contacts, local phrases and tips</li>
         <li>Next.js UI • Django REST • Redis sessions • Celery QR generation</li>
+         <li>Live: <a href="https://tripbozo.com/">tripbozo.com</a></li>
       </ul>
       <p>
         <a href="https://github.com/suryansh-it/tripbozo-frontend">
