@@ -151,14 +151,7 @@ Samrat Ashok Technological Institute, Vidisha (Jun 2026)&#x20;
 
 ### 📊 GitHub Stats & Streak
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-it&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px" alt="Top Languages" />
-</p>
-
-<p align="center">
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true)](https://git.io/streak-stats)
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/suryansh-it" alt="github chart" /> </p>
 
 ---
 
