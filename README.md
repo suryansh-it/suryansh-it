@@ -42,7 +42,7 @@ Cloud & Tools:  Render, Netlify, Vercel, Sentry, Git
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🚀 Ttripbozo</h3>
+      <h3>🚀 tripbozo</h3>
       <ul>
         <li>Country‑verified travel apps (ride‑hail, maps, food delivery)</li>
         <li>One‑scan QR bundles for instant installs—no signup required</li>
