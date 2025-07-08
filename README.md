@@ -141,7 +141,7 @@ Graduation: June 2026
 ---
 
 ### 📊 GitHub Stats & Streak
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/suryansh-it" alt="github chart" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark)](https://git.io/streak-stats) </p>
 
 ---
 
