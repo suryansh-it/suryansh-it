@@ -1,3 +1,4 @@
+
 <h1 align="center">Hi 👋, I’m Suryansh Sharma</h1>
 <h3 align="center">Passionate Backend Developer | B.Tech IT Final Year | SaaS & TravelTech Builder</h3>
 
@@ -15,11 +16,11 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Final‑year **B.Tech in Information Technology** (Graduating June 2026)  
-- 🚀 Building **TripBozo**, a travel‑prep SaaS: country‑verified app bundles + QR installs  
-- 🔧 Strong backend focus: **Django REST Framework**, **PostgreSQL**, **Redis**, **Celery**  
-- 🌐 Frontend chops: **Next.js**, **React**, **Tailwind CSS**  
-- 📚 Always learning: Microservices, GraphQL, Cloud‑Native Architectures  
+- 🎓 Final-year **B.Tech in Information Technology**, Samrat Ashok Technological Institute (Graduating June 2026)  
+- 🚀 Building **TripBozo**—a travel-prep SaaS delivering curated, country-specific app bundles via a single QR code  
+- 🔧 Backend: **Django REST Framework**, **PostgreSQL**, **Redis**, **Celery**  
+- 🌐 Frontend: **Next.js**, **React**, **Tailwind CSS**  
+- 📚 Always learning: **DevOps** (Docker, Kubernetes, CI/CD) & **Prompt Engineering**
 
 ---
 
@@ -30,8 +31,8 @@ Backend:        Python, Django, Django REST Framework, Redis, Celery
 Frontend:       Next.js, React, Tailwind CSS, React Icons
 Mobile:         Flutter, Dart
 Database:       PostgreSQL, SQLite
-DevOps:         Docker, GitHub Actions, Netlify, Render
-Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
+DevOps:         Docker, Kubernetes, GitHub Actions, CI/CD
+Cloud & Tools:  AWS (EC2, S3), Netlify, Vercel, Sentry, Git
 ````
 
 ---
@@ -42,31 +43,35 @@ Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
   <tr>
     <td width="50%" valign="top">
       <h3>🚀 TripBozo</h3>
+      <ul>
+        <li>Country‑verified travel apps (ride‑hail, maps, eSIMs, insurance)</li>
+        <li>One‑scan QR bundles for instant installs—no signup required</li>
+        <li>Feedback loop to add new countries in minutes</li>
+        <li>Next.js UI • Django REST • Redis sessions • Celery QR generation</li>
+      </ul>
       <p>
-        • Curated country‑specific travel apps (ride‑hail, maps, eSIMs, insurance)<br>
-        • Multi‑app QR bundle for one‑click installs (no signup!)<br>
-        • Feedback loop to onboard new countries in minutes<br>
-        • Next.js frontend • Django REST APIs • Redis sessions • Celery QR generation<br><br>
         <a href="https://github.com/suryansh-it/tripbozo-frontend">
-          <img src="https://img.shields.io/github/stars/suryansh-it/tripbozo-frontend?style=social" />
+          <img src="https://img.shields.io/github/stars/suryansh-it/tripbozo-frontend?style=social" alt="Stars" />
         </a>
         <a href="https://github.com/suryansh-it/tripbozo-frontend">
-          <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View-Frontend-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>📖 Unbind</h3>
+      <ul>
+        <li>eBook downloader & reader with offline .epub support</li>
+        <li>Django REST API + PostgreSQL for book & user management</li>
+        <li>Flutter frontend with integrated ePub viewer</li>
+        <li>JWT‑auth, metadata scraping, search workflows</li>
+      </ul>
       <p>
-        • eBook downloader & reader app with **offline .epub support**<br>
-        • Django REST API + PostgreSQL for book/user management<br>
-        • Flutter frontend with integrated ePub viewer<br>
-        • JWT‑auth, metadata scraping, search workflows<br><br>
         <a href="https://github.com/suryansh-it/un-bind">
-          <img src="https://img.shields.io/github/stars/suryansh-it/un-bind?style=social" />
+          <img src="https://img.shields.io/github/stars/suryansh-it/un-bind?style=social" alt="Stars" />
         </a>
         <a href="https://github.com/suryansh-it/un-bind">
-          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
         </a>
       </p>
     </td>
@@ -74,30 +79,34 @@ Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
   <tr>
     <td width="50%" valign="top">
       <h3>🌿 MedVeda</h3>
+      <ul>
+        <li>Ayurvedic remedies platform with user contributions</li>
+        <li>Django REST + PostgreSQL, JWT‑secured endpoints</li>
+        <li>Redis caching & Celery for async tasks</li>
+        <li>Next.js frontend with expert-verified entries</li>
+      </ul>
       <p>
-        • Ayurvedic remedy platform: browse & submit traditional cures<br>
-        • JWT‑secured Django REST APIs & PostgreSQL storage<br>
-        • Redis caching & Celery background tasks for performance<br>
-        • Next.js UI for intuitive browsing & expert‑verified entries<br><br>
         <a href="https://github.com/suryansh-it/MedVeda">
-          <img src="https://img.shields.io/github/stars/suryansh-it/MedVeda?style=social" />
+          <img src="https://img.shields.io/github/stars/suryansh-it/MedVeda?style=social" alt="Stars" />
         </a>
         <a href="https://github.com/suryansh-it/MedVeda">
-          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
         </a>
       </p>
     </td>
     <td width="50%" valign="top">
       <h3>💼 Portfolio Website</h3>
+      <ul>
+        <li>Personal site showcasing projects, skills & upcoming blog</li>
+        <li>Responsive design with animations & dark/light mode</li>
+        <li>Live: <a href="https://suryansharma-portfolio.netlify.app/">suryansharma-portfolio.netlify.app</a></li>
+      </ul>
       <p>
-        • Personal site showcasing projects, skills & blog (coming soon)<br>
-        • Responsive design with animations & dark/light mode<br>
-        • Live: <a href="https://suryansharma-portfolio.netlify.app/">suryansharma-portfolio.netlify.app</a><br><br>
         <a href="https://github.com/suryansh-it/portfolio">
-          <img src="https://img.shields.io/github/stars/suryansh-it/portfolio?style=social" />
+          <img src="https://img.shields.io/github/stars/suryansh-it/portfolio?style=social" alt="Stars" />
         </a>
         <a href="https://github.com/suryansh-it/portfolio">
-          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+          <img src="https://img.shields.io/badge/View-Repo-171515?style=for-the-badge&logo=github&logoColor=white" alt="View" />
         </a>
       </p>
     </td>
@@ -108,24 +117,24 @@ Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
 
 ### 💼 Experience
 
-* **Software Engineer Intern @ WATT Incorporate** (Apr 2023 – May 2023)
-  • Built AI‑powered healthtech assistant with Python & HTML/CSS
-* **Python Trainee Intern @ Tuffle Enterprises** (Aug 2023 – Sep 2023)
-  • Developed games & apps using Python, authored reusable libraries
+* **WATT Incorporate — Software Engineer Intern** (Apr 2023 – May 2023)
+  • Collaborated on an AI‑based healthtech assistant; integrated Python backend with HTML/CSS frontend for optimized user workflows.&#x20;
+
+* **Tuffle Enterprises — Python Trainee Intern** (Aug 2023 – Sep 2023)
+  • Authored Python-based mini-games and utility apps; leveraged Flask and third‑party libraries to deliver modular, reusable components.&#x20;
 
 ---
 
 ### 🎓 Education
 
 **B.Tech in Information Technology**
-Samrat Ashok Technological Institute, Vidisha
-Graduation: June 2026
+Samrat Ashok Technological Institute, Vidisha (Jun 2026)&#x20;
 
 ---
 
 ### 🤝 Social Initiatives
 
-* Student coordinator for **Smart India Hackathon 2024** (college round)
+* Organized & coordinated the internal college round of **Smart India Hackathon 2024**&#x20;
 
 ---
 
@@ -141,17 +150,23 @@ Graduation: June 2026
 ---
 
 ### 📊 GitHub Stats & Streak
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark)](https://git.io/streak-stats) </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-it&langs_count=10&show_icons=true&locale=en&theme=tokyonight" height="230px" alt="Top Languages" />
+</p>
+
+<p align="center">
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true)](https://git.io/streak-stats)
+</p>
 
 ---
 
 <details>
   <summary>🔍 Currently Learning</summary>
   <ul>
-    <li>DevOps (Docker, Kubernetes, CI/CD)</li>
+    <li>DevOps: Docker, Kubernetes, CI/CD pipelines</li>
     <li>Advanced Prompt Engineering & LLM Agents</li>
   </ul>
 </details>
-
-
 
