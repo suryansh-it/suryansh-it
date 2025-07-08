@@ -1,78 +1,130 @@
-<!-- ![Snake animation](https://github.com/suryansh-it/suryansh-it/blob/main/github/workflows/snake.yml)-->
+````markdown
+<h1 align="center">Hi 👋, I’m Suryansh Sharma</h1>
+<h3 align="center">Passionate Backend Developer | B.Tech IT Final Year | SaaS & TravelTech Builder</h3>
 
-<!--<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>-->
-<h2>Hey there! I'm Suryansh</h2>
-
-<!-- ## 👋 &nbsp;Hey there! I'm SURYANSH -->
-
-<!--## <picture ><img src = "https://github.com/suryansh-it/suryansh-it/blob/main/assets/Animation%20-%201720768634251.gif" width="50px" style="vertical-align: bottom;" > </picture>-->
-<b> About Me </b>
-
-
-
-👨🏻‍💻 &nbsp;A Passionate backend developer in making
-
-
-
-
-<br>
-
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b>  Tech Stack </b>
-<br>
-
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![MongoDB](https://img.shields.io/badge/-MongoDB-05122A?style=flat&logo=mongodb)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-05122A?style=flat&logo=markdown)\
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Figma](https://img.shields.io/badge/-Figma-05122A?style=flat&logo=figma&logoColor=F24E1E)&nbsp;
-![C++](https://img.shields.io/badge/-C%2B%2B-05122A?style=flat&logo=c%2B%2B)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=c)&nbsp;
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-05122A?style=flat&logo=postgresql)&nbsp;
-![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=amazon-dynamodb&logoColor=336791)&nbsp;
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django)&nbsp;
-![OpenCV](https://img.shields.io/badge/-OpenCV-05122A?style=flat&logo=opencv)&nbsp;
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)&nbsp;
-
-
-
-
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
-<br>
 <p align="center">
-    <a href="https://github.com/suryansh-it/github-readme-stats">
-	    <img alt="suryansh-it's Github Stats" src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-it&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="suryansh-it" height="230px"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=0F2330&background=F7F7F7&width=600&lines=Backend+%7C+Django+%26+DRF+%7C+PostgreSQL;Next.js+%7C+Tailwind+CSS+%7C+React;Always+Learning+%26+Building+!" alt="Typing SVG" />
 </p>
 
-### 🔥 Streak Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark)](https://git.io/streak-stats)
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
-
-## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80"><b style=" margin-bottom: 100px;"> Let's Connect..! </b>
 <p align="center">
-
-<a href="https://www.linkedin.com/in/suryansharma"> <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" width="40" height="40" alt="Animated Icon"/></a>
-<a href="mailto:suryansharma09@gmail.com"><img src="https://img.icons8.com/?size=100&id=37246&format=png&color=000000"  width="40" height="40" alt="Animated Icon"/></a>
-<a href="https://instagram.com/_suryansharma_"><img src="https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000" width="40" height="40" alt="Animated Icon
-"/></a>
-
+  <a href="https://suryansharma-portfolio.netlify.app/Resume.pdf">
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-007ACC?style=for-the-badge&logo=github&logoColor=white" alt="Resume" />
+  </a>
 </p>
 
+---
 
+### 👨‍💻 About Me
+
+- 🎓 Final‑year **B.Tech in Information Technology**  
+- 🚀 Building **TripBozo**, a country‑specific travel app curator that bundles essential apps into one QR code  
+- 🔧 Strong backend focus: **Django REST Framework**, **PostgreSQL**, **Redis**, **Docker**  
+- 🌐 Frontend chops: **Next.js**, **React**, **Tailwind CSS**  
+- 📚 Always learning new tools & patterns—currently exploring **Microservices**, **GraphQL**, and **Cloud‑Native Architectures**
+
+---
+
+### 🧰 Tech Stack
+
+```yaml
+Backend:        Python, Django, Django REST Framework, Redis, Celery
+Frontend:       Next.js, React, Tailwind CSS, React Icons
+Database:       PostgreSQL, SQLite
+DevOps:         Docker, GitHub Actions, Netlify, Render
+Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
+````
+
+---
+
+### 🏆 Notable Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 TripBozo</h3>
+      <p>
+        • Curated country‑specific travel apps (ride‑hail, maps, eSIMs, insurance)<br>
+        • Multi‑app QR bundle for one‑click installs<br>
+        • Feedback loop to onboard new countries in minutes<br>
+        • UI: Next.js + Tailwind CSS | API: Django REST Framework | Redis caching<br><br>
+        <a href="https://github.com/suryansh-it/tripbozo-frontend">
+          <img src="https://img.shields.io/github/stars/suryansh-it/tripbozo-frontend?style=social" />
+        </a>
+        <a href="https://github.com/suryansh-it/tripbozo-frontend">
+          <img src="https://img.shields.io/badge/View%20Frontend-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💼 Portfolio Website</h3>
+      <p>
+        • Personal portfolio showcasing projects, skills & blog (coming soon)<br>
+        • Responsive design with animations & dark/light mode<br>
+        • Live: [suryansharma-portfolio.netlify.app](https://suryansharma-portfolio.netlify.app/)<br><br>
+        <a href="https://github.com/suryansh-it/portfolio">
+          <img src="https://img.shields.io/github/stars/suryansh-it/portfolio?style=social" />
+        </a>
+        <a href="https://github.com/suryansh-it/portfolio">
+          <img src="https://img.shields.io/badge/View%20Repo-171515?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💼 Experience
+
+* **Backend Intern @ \[Your Company]**
+  • Built REST APIs for internal tools using Django REST Framework
+  • Implemented Redis‑based caching and Celery background jobs
+  • Improved API response times by 30% and achieved 90% test coverage
+* **Freelance Developer**
+  • Delivered automation scripts (Python, Selenium) and Flask microservices
+  • Created CI/CD pipelines with GitHub Actions & Docker
+
+---
+
+### 🥇 Achievements
+
+* 🎖️ **Semi‑Finalist** – XYZ Hackathon 2024
+* 🏅 **Best Project** – College Tech Fest 2023
+* 📜 **Certified** – AWS Cloud Practitioner & Django for Professionals
+
+---
+
+### 📬 Connect with Me
+
+<p align="center">
+  <a href="mailto:suryansharma09@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/suryansh-it"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="https://linkedin.com/in/suryansharma"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://instagram.com/_suryansharma_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+</p>
+
+---
+
+<details>
+  <summary>📊 GitHub Stats</summary>
+
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="180" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suryansh-it&layout=compact&theme=tokyonight&hide_border=true" height="180" />
+  </p>
+
+  <p align="center">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" />
+  </p>
+</details>
+
+<details>
+  <summary>🔍 Currently Learning</summary>
+  <ul>
+    <li>Microservices with Kubernetes & Docker</li>
+    <li>GraphQL & Apollo Server</li>
+    <li>Event‑Driven Architectures (Kafka, RabbitMQ)</li>
+    <li>Advanced Prompt Engineering & LLM Agents</li>
+  </ul>
+</details>
+```
