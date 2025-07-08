@@ -141,21 +141,17 @@ Graduation: June 2026
 ---
 
 ### 📊 GitHub Stats & Streak
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" />
-</p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=suryansh-it&show_icons=true&theme=tokyonight&hide_border=true" height="160" /> <img src="https://github-readme-streak-stats.herokuapp.com/?user=suryansh-it&theme=dark&hide_border=true" height="160" /> </p> <p align="center"> <img src="https://ghchart.rshah.org/suryansh-it" alt="github chart" /> </p>
 
 ---
 
 <details>
   <summary>🔍 Currently Learning</summary>
   <ul>
-    <li>Microservices with Kubernetes & Docker</li>
-    <li>GraphQL & Apollo Server</li>
-    <li>Event‑Driven Architectures (Kafka, RabbitMQ)</li>
+    <li>DevOps (Docker, Kubernetes, CI/CD)</li>
     <li>Advanced Prompt Engineering & LLM Agents</li>
   </ul>
 </details>
+
+
 
