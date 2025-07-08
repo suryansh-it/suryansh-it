@@ -27,7 +27,7 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Backend:        Python, Django, Django REST Framework,Flask, FastApi Redis, Celery
+Backend:        Python, Django, Django REST Framework,Flask, FastApi, Redis, Celery
 Frontend:       Next.js, React, Tailwind CSS, React Icons
 Mobile:         Flutter, Dart
 Database:       PostgreSQL, SQLite, MongoDB
