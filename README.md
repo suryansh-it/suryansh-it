@@ -1,4 +1,4 @@
-````markdown
+
 <h1 align="center">Hi 👋, I’m Suryansh Sharma</h1>
 <h3 align="center">Passionate Backend Developer | B.Tech IT Final Year | SaaS & TravelTech Builder</h3>
 
@@ -127,4 +127,4 @@ Cloud & Tools:  AWS (EC2, S3), Vercel, Sentry, Git
     <li>Advanced Prompt Engineering & LLM Agents</li>
   </ul>
 </details>
-```
+
