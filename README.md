@@ -3,8 +3,9 @@
 <h3 align="center">Passionate Fullstack Developer | B.Tech IT Final Year | Building SaaS</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=0F2330&width=600&lines=Backend+%7C+Django+%26+DRF+%7C+PostgreSQL;Next.js+%7C+Tailwind+CSS+%7C+React;Always+Learning+%26+Building+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Mono&size=24&pause=1000&color=FFFFFF&width=600&center=true&lines=Backend+%7C+Django+%26+DRF+%7C+PostgreSQL;Next.js+%7C+Tailwind+CSS+%7C+React;Always+Learning+%26+Building+!" alt="Typing SVG: Backend | Django & DRF | PostgreSQL; Next.js | Tailwind CSS | React; Always Learning & Building !" />
 </p>
+
 
 <p align="center">
   <a href="https://suryansharma-portfolio.netlify.app/Resume.pdf">
