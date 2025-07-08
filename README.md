@@ -17,7 +17,7 @@
 ### 👨‍💻 About Me
 
 - 🎓 Final-year **B.Tech in Information Technology**, Samrat Ashok Technological Institute (Graduating June 2026)  
-- 🚀 Building **TripBozo**—a travel-prep SaaS delivering curated, country-specific app bundles via a single QR code  
+- 🚀 Building **tripbozo**—a travel-prep SaaS delivering curated, country-specific app bundles via a single QR code  
 - 🔧 Backend: **Django REST Framework**, **PostgreSQL**, **Redis**, **Celery**  
 - 🌐 Frontend: **Next.js**, **React**, **Tailwind CSS**  
 - 📚 Always learning: **DevOps** (Docker, Kubernetes, CI/CD) & **Prompt Engineering**
@@ -27,12 +27,12 @@
 ### 🧰 Tech Stack
 
 ```yaml
-Backend:        Python, Django, Django REST Framework, Redis, Celery
+Backend:        Python, Django, Django REST Framework,Flask, FastApi Redis, Celery
 Frontend:       Next.js, React, Tailwind CSS, React Icons
 Mobile:         Flutter, Dart
-Database:       PostgreSQL, SQLite
+Database:       PostgreSQL, SQLite, MongoDB
 DevOps:         Docker, Kubernetes, GitHub Actions, CI/CD
-Cloud & Tools:  AWS (EC2, S3), Netlify, Vercel, Sentry, Git
+Cloud & Tools:  Render, Netlify, Vercel, Sentry, Git
 ````
 
 ---
